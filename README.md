@@ -23,7 +23,7 @@ A Car Rental Management System built in Eclipse IDE using JAVA Swing and MYSQL
         ``` 
 >The connect method is located at `CarsPanel.java`, `CustomerPanel.java`, and `RentPanel.java`. Hence, you have to configure the `Connect()` method in all three of them.
 
-3. Import the `mysql-connector-java-8.0.25.jar` and `rs2xml` located at the folder called `dependencies` on Java Build Path as Libraries in Classpath.
+3. Import the `mysql-connector-java-8.0.25.jar` and `rs2xml.jar` located at the folder called `dependencies` on Java Build Path as Libraries in Classpath.
         ![image](https://user-images.githubusercontent.com/54162088/121796911-49593d80-cc4f-11eb-8eb5-a22ebd9117f7.png)
         >Your build path should now look like this.
 
