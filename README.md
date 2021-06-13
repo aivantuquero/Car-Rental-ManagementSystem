@@ -31,7 +31,8 @@ A Car Rental Management System built in Eclipse IDE using JAVA Swing and MYSQL
 
 
 
-## How to use
+# How to use
+
 
 1. Run login.java and enter `admin` as username and password.
 
@@ -41,8 +42,9 @@ A Car Rental Management System built in Eclipse IDE using JAVA Swing and MYSQL
 
 2. After that, you will be greeted with a dashboard.
      
-        
-### The dashboard
+#Features
+
+## The dashboard
 
 ![image](https://user-images.githubusercontent.com/54162088/121797234-8e7e6f00-cc51-11eb-9f26-65e7bd50e325.png)
 
@@ -51,7 +53,7 @@ A Car Rental Management System built in Eclipse IDE using JAVA Swing and MYSQL
 ### Manage Customers
 ![image](https://user-images.githubusercontent.com/54162088/121797475-ebc6f000-cc52-11eb-8c9c-79c3a68fac43.png)
 
-This section of the system is where you access and register your customers.
+-This section of the system is where you access and register your customers.
 
 ### Manage Cars
 ![image](https://user-images.githubusercontent.com/54162088/121797503-2df03180-cc53-11eb-80f4-65fd2facbbad.png)
