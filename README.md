@@ -42,7 +42,9 @@ A Car Rental Management System built in Eclipse IDE using JAVA Swing and MYSQL
 
 2. After that, you will be greeted with a dashboard.
      
-#Features
+     
+# Features
+
 
 ## The dashboard
 
