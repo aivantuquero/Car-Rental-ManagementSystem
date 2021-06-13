@@ -34,7 +34,9 @@ A Car Rental Management System built in Eclipse IDE using JAVA Swing and MYSQL
 ## How to use
 
 1. Run login.java and enter `admin` as username and password.
+
 ![image](https://user-images.githubusercontent.com/54162088/121797149-08fabf00-cc51-11eb-85cb-17bf9a5fb65f.png)
+
 >You can configure the username and password in the source code.
 
 2. After that, you will be greeted with a dashboard.
