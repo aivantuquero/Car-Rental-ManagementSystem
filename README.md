@@ -34,7 +34,7 @@ A Car Rental Management System built in Eclipse IDE using JAVA Swing and MYSQL
 ## How to use
 
 1. Run login.java and enter `admin` as username and password.
- ![image](https://user-images.githubusercontent.com/54162088/121797149-08fabf00-cc51-11eb-85cb-17bf9a5fb65f.png)
+![image](https://user-images.githubusercontent.com/54162088/121797149-08fabf00-cc51-11eb-85cb-17bf9a5fb65f.png)
 >You can configure the username and password in the source code.
 
 2. After that, you will be greeted with a dashboard.
@@ -54,8 +54,8 @@ This section of the system is where you access and register your customers.
 ### Manage Cars
 ![image](https://user-images.githubusercontent.com/54162088/121797503-2df03180-cc53-11eb-80f4-65fd2facbbad.png)
 
--This section of the system overlooks the whole system by showing all cars and their renter's name (if booked).
--This is also where you mark cars as available if the renter has given them back. This process can be done by searching the Car ID and clicking "Mark As Available"
+-This section of the system overlooks the whole system by showing all cars and their renter's name (if booked). This is also where you mark cars as available if the renter has given them back. This process can be done by searching the Car ID and clicking "Mark As Available"
+
 -You can also register, delete, and edit cars in this section.
 
 ### Rent A Car
